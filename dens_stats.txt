@@ -1,0 +1,11 @@
+ 000000	 Tesselation_area: 0.0390836	 Grain_area: 0.0331727	 Void_area: 0.00591133	 Packing_density: 84.8763	 Max_x:0.223751	 Max_y:0.178981	 s': -0.016725	 t: 0.016725
+ 000068	 Tesselation_area: 0.0397269	 Grain_area: 0.0328844	 Void_area: 0.00684291	 Packing_density: 82.7761	 Max_x:0.361706	 Max_y:0.165678	 s': -0.144222	 t: 0.144222
+ 000136	 Tesselation_area: 0.0397815	 Grain_area: 0.032707	 Void_area: 0.00707503	 Packing_density: 82.2166	 Max_x:0.595993	 Max_y:0.14096	 s': -0.150478	 t: 0.150478
+ 000204	 Tesselation_area: 0.0395435	 Grain_area: 0.0323843	 Void_area: 0.00715956	 Packing_density: 81.8954	 Max_x:0.794814	 Max_y:0.115791	 s': -0.244871	 t: 0.244871
+ 000272	 Tesselation_area: 0.0392596	 Grain_area: 0.0321963	 Void_area: 0.00706368	 Packing_density: 82.0089	 Max_x:0.907359	 Max_y:0.0983688	 s': -2.21245	 t: 2.21245
+ 000340	 Tesselation_area: 0.0387942	 Grain_area: 0.032032	 Void_area: 0.00676292	 Packing_density: 82.5691	 Max_x:0.924776	 Max_y:0.0882486	 s': -0.420511	 t: 0.420511
+ 000408	 Tesselation_area: 0.0387025	 Grain_area: 0.0321559	 Void_area: 0.00654723	 Packing_density: 83.0848	 Max_x:0.924776	 Max_y:0.0833604	 s': -0.21782	 t: 0.21782
+ 000476	 Tesselation_area: 0.0385269	 Grain_area: 0.0321537	 Void_area: 0.00637403	 Packing_density: 83.4578	 Max_x:0.924776	 Max_y:0.0819122	 s': -0.0180427	 t: 0.0180427
+ 000544	 Tesselation_area: 0.0384155	 Grain_area: 0.0321413	 Void_area: 0.00627485	 Packing_density: 83.6677	 Max_x:0.924775	 Max_y:0.0801554	 s': -0.0121552	 t: 0.0121552
+ 000612	 Tesselation_area: 0.0384275	 Grain_area: 0.0321671	 Void_area: 0.00626098	 Packing_density: 83.7088	 Max_x:0.924775	 Max_y:0.0797415	 s': -6.57388	 t: 6.57388
+ 000674	 Tesselation_area: 0.0382721	 Grain_area: 0.0320417	 Void_area: 0.00623102	 Packing_density: 83.7208	 Max_x:0.924775	 Max_y:0.0790356	 s': -0.0758344	 t: 0.0758344
